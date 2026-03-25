@@ -47,6 +47,9 @@ Los componentes reutilizables deben incluir:
 El diseño debe ser responsivo, con buen espaciado, bordes redondeados y jerarquía visual clara. Se deben evitar estilos recargados, priorizando una apariencia elegante y consistente con Apple Music.
 
 La aplicación debe estar lista para ejecutarse en Flutter y poder visualizarse correctamente en DartPad en su versión inicial (main.dart).
+<img width="445" height="737" alt="image" src="https://github.com/user-attachments/assets/7def2ade-a554-4726-940f-d578d68fa2b4" />
+<img width="436" height="746" alt="image" src="https://github.com/user-attachments/assets/c2a1f895-1994-4ab1-b3a2-2497d361052f" />
+<img width="433" height="731" alt="image" src="https://github.com/user-attachments/assets/34ec3076-748d-49a8-8ee7-76d2645cf36b" />
 
 
 <img width="565" height="742" alt="image" src="https://github.com/user-attachments/assets/f03abeb3-7192-442b-a2dd-f29bb23365cb" />
